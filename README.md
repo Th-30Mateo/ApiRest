@@ -155,7 +155,7 @@ Los modelos de Pydantic definen los campos y varias restricciones de los datos r
 
 Este almacenamiento es una solución didáctica; no ofrece las garantías de integridad, concurrencia, auditoría y recuperación que se esperan de una base de datos para producción.
 
-## Limitaciones y mejoras pendientes
+## Limitaciones y mejoras pendiente
 
 - Corregir y probar las dependencias del proyecto.
 - Revisar las operaciones de internaciones, especialmente la modificación.
